@@ -1,21 +1,4 @@
-MSH/
-│
-├── data/
-│   ├── raw/                 # Dữ liệu gốc chưa xử lý (nếu có)
-│   └── cleaned/             # Dữ liệu đã làm sạch, sẵn sàng phân tích (file CSV)
-│
-├── notebooks/               # Các file Jupyter Notebook phân tích, xử lý, mô hình
-│   └── analysis.ipynb
-│
-├── sql/                    # Các file truy vấn SQL (nếu có)
-│
-├── reports/                 # Báo cáo chi tiết (có thể file markdown hoặc pdf)
-│
-├── scripts/                 # Mã nguồn Python riêng (nếu tách thành script)
-│
-├── requirements.txt         # Thư viện Python cần thiết
-│
-└── README.md                # Giới thiệu project, hướng dẫn sử dụng
+
 # Phân tích và Dự đoán Giá Cổ Phiếu MSH
 
 ## Mục đích dự án
